@@ -55,5 +55,9 @@ Dual Audio Listening Modes:
 Listen to Rachana Bol: Vocal rhythmic recitation with speech synthesis and cadence pulse.
 Listen to Rachana Instrumental: Pure acoustic simulation (bamboo flute harmonic series or dual-membrane snare/bass drum acoustic strikes).
 
+<img width="163" height="303" alt="image" src="https://github.com/user-attachments/assets/bbcbe2fb-ae7b-4733-a78c-5d65b9b78511" />
+<img width="156" height="302" alt="image" src="https://github.com/user-attachments/assets/5b4a9c9a-9e39-4641-b12b-361137875e81" />
+
+
 
 Multi-Speed Tempo Controls: Selectable rates at 0.5x (Slow practice), 0.75x, 1.0x (Standard), 1.25x, and 1.5x (Fast parade).
