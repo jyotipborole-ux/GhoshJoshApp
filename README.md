@@ -30,6 +30,8 @@ Profile & Security (AdminProfile):
 Admin credential card with Shakha affiliation and role badges.
 Change Password Form: Form with validation, confirmation checking, and security guidelines.
 
+<img width="940" height="415" alt="image" src="https://github.com/user-attachments/assets/16f30885-ab81-4d64-a3ea-eea4926cf648" />
+<img width="940" height="408" alt="image" src="https://github.com/user-attachments/assets/ecb82af6-e2e5-480b-a382-1c6d80519c70" />
 
 
 B. Mobile Learner App (End-User Experience)
