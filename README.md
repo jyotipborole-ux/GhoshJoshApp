@@ -10,7 +10,7 @@ Core System Architecture & Screen Designs
 
 Dashboard (AdminDashboard):
 * Real-Time Key Metrics: Active verified learners, pending approval requests, Vanshi flute compositions, and Aanak drum cadences.
-* Instrument-Wise Library Matrix: Visual breakdown for Vanshi (वंशी), Aanak (आनक), Shring (शृङ्ग), and Shankh (शङ्ख) with composition counts, sample Bols, and direct navigation.
+* Instrument-Wise Library Matrix: Visual breakdown for Vanshi (वंशी), Aanak (आनक), Shring (शृङ्ग), and Shankh (शङ्ख) with composition counts, sample Bols, and direct navigation. [Note- we can exclude Shring/ Shankh for now]
 * Pending Approval Queue: Quick-review cards displaying learner name, Shakha affiliation, email, requested instrument, and one-tap Approve / Reject buttons.
 * Published Repository Table: Searchable catalog with Tala, Matras, BPM, notation summary, and live status.
 
