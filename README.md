@@ -1,7 +1,7 @@
 # GhoshJoshApp
 ## Instrument Learning Platform
 
-###GHOSH JOSH (घोष जोश) — Design Specifications & Application Suite
+### GHOSH JOSH (घोष जोश) — Design Specifications & Application Suite
 The complete design specifications, screen designs, and interactive functional application for GHOSH JOSH for both Website Admin and Mobile Learner App.
 
 Core System Architecture & Screen Designs
