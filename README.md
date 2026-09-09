@@ -7,6 +7,7 @@ The complete design specifications, screen designs, and interactive functional a
 Core System Architecture & Screen Designs
 
 **A. Website Admin Portal (Curator & Content Operations)**
+
 Dashboard (AdminDashboard):
 * Real-Time Key Metrics: Active verified learners, pending approval requests, Vanshi flute compositions, and Aanak drum cadences.
 * Instrument-Wise Library Matrix: Visual breakdown for Vanshi (वंशी), Aanak (आनक), Shring (शृङ्ग), and Shankh (शङ्ख) with composition counts, sample Bols, and direct navigation.
@@ -31,25 +32,22 @@ Profile & Security (AdminProfile):
 
 
 **B. Mobile Learner App (End-User Experience)**
+
 Onboarding & Permission Verification (MobileAuth):
 * New learners create a profile specifying name, email, phone, city, Shakha, and requested instrument.
 * Approval Status Tracker: Real-time screen showing "Awaiting Admin Verification" until approved by Shakha Admin (with an instant sandbox simulation toggle).
 
-
 Instrument Selector (MobileInstrumentSelect):
 * High-fidelity selection cards for Vanshi (Bansuri / Metal Flute) and Aanak (Ghosh Marching Drums) with acoustic sound preview buttons, descriptions, and enrollment badges.
-
 
 Rachana Discovery (MobileRachanaList):
 * Filter compositions by difficulty (Beginner, Intermediate, Advanced) and Tala.
 * Live progress indicator rings showing the learner's mastery percentage on each card.
-
 
 Interactive Rachana Player & Learning Studio (MobileRachanaPlayer):
 * Synchronized Sargam & Bol Reader: Visual grid with live beat and Matra tracking, highlighting Sam (✕), Tali, and Khali (○).
 Dual Audio Listening Modes:
 * Listen to Rachana Bol: Vocal rhythmic recitation with speech synthesis and cadence pulse.
 * Listen to Rachana Instrumental: Pure acoustic simulation (bamboo flute harmonic series or dual-membrane snare/bass drum acoustic strikes).
-
 
 Multi-Speed Tempo Controls: Selectable rates at 0.5x (Slow practice), 0.75x, 1.0x (Standard), 1.25x, and 1.5x (Fast parade).
