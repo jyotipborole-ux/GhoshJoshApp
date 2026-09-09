@@ -1,9 +1,11 @@
 # GhoshJoshApp
-Instrument Learning Platform
-GHOSH JOSH (घोष जोश) — Design Specifications & Application Suite
+## Instrument Learning Platform
+
+###GHOSH JOSH (घोष जोश) — Design Specifications & Application Suite
 The complete design specifications, screen designs, and interactive functional application for GHOSH JOSH for both Website Admin and Mobile Learner App.
 
-1. Core System Architecture & Screen Designs
+Core System Architecture & Screen Designs
+
 A. Website Admin Portal (Curator & Content Operations)
 Dashboard (AdminDashboard):
 Real-Time Key Metrics: Active verified learners, pending approval requests, Vanshi flute compositions, and Aanak drum cadences.
